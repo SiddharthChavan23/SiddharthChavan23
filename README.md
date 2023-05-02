@@ -1,7 +1,7 @@
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Chaos Engineering Enthusiast.I also like Python and I'm exploring the world of Machine Learning 🐍  </samp></h4>
 
 <p align="center">
-  <img width="250" src="https://giphy.com/embed/eSwGh3YK54JKU">
+  <img width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM4NzEzYmY1MjViODgxZmJjOTVmODdmODE4MWE2ZDMzNGQ5MDNiZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/124rIiBX0Kh5Cw/giphy.gif">
 </p>
 
 
